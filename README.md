@@ -6,7 +6,7 @@ Project page for **PREM: Prediction-Regulated Memory for Robot Manipulation**.
 School of Artificial Intelligence, Shanghai Jiao Tong University  
 † Corresponding authors
 
-Project page: https://1106280506hx.github.io/PREM/
+Project page: https://xiao-0309.github.io/PREM/
 
 The website contains the paper, method overview, benchmark results, and 13 evaluation videos.
 
